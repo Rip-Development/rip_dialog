@@ -10,3 +10,5 @@ this script is creating by The Ripper#8400
 
 
 # 💾 Download
+
+https://github.com/Rip-Development/rip_dialog
