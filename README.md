@@ -7,7 +7,7 @@ this script is creating by The Ripper#8400
 
 # 📚 Documentation
 
-
+https://rip-or-development.gitbook.io/rip-dev/
 
 # 💾 Download
 
