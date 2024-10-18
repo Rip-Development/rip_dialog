@@ -4,8 +4,10 @@ this script is creating by The Ripper#8400
 
 - if you want any help join our server Ripper | Development 🛠 (https://discord.gg/drpZPScJRp)
 # Preview
-![Picture](https://i.imgur.com/4llTxBH.jpeg)
+
 https://www.youtube.com/watch?v=g8VBXV0iABo
+
+![Picture](https://imgur.com/a/S5x2wPU)
 
 # 📚 Documentation
 
