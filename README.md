@@ -7,7 +7,7 @@ this script is creating by The Ripper#8400
 
 https://www.youtube.com/watch?v=g8VBXV0iABo
 
-![Picture](https://imgur.com/a/S5x2wPU)
+![Picture](https://imgur.com/CaA7iys)
 
 # 📚 Documentation
 
