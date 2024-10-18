@@ -13,4 +13,5 @@ https://rip-or-development.gitbook.io/rip-dev/free-scripts/rip-dialog
 
 # 💾 Download
 
-https://github.com/Rip-Development/rip_dialog
+Download From Tebex : https://ripper-development.tebex.io/package/6504465
+Download From Github : https://github.com/Rip-Development/rip_dialog
