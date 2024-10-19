@@ -59,19 +59,19 @@ window.addEventListener('message', function(event) {
 document.onkeyup = function (event) {
 	const charCode = event.key;
 	if (charCode == "Escape") {
-		$.post(`http://${GetParentResourceName()}/exit`, JSON.stringify({}));
+		$.post(`https://${GetParentResourceName()}/exit`, JSON.stringify({}));
 		display(false);
 	}
 };
 
 $("#close-button").click(function () {
 	stopTypeWriter();
-	$.post(`http://${GetParentResourceName()}/exit`, JSON.stringify({}));
+	$.post(`https://${GetParentResourceName()}/exit`, JSON.stringify({}));
 	display(false);
 });
 
 function show(id) {
-	$.post(`http://${GetParentResourceName()}/selectTarget`, JSON.stringify({id}));
+	$.post(`https://${GetParentResourceName()}/selectTarget`, JSON.stringify({id}));
 }
 
 function createOptionItem(data, id) {
@@ -174,7 +174,7 @@ function typeWriter(element, text, speed, data) {
 	}
   }
   function appendOptions() {
-	$.post(`http://${GetParentResourceName()}/stopanim`, JSON.stringify({}));
+	$.post(`https://${GetParentResourceName()}/stopanim`, JSON.stringify({}));
 	setTimeout(() => {
 		for (let [index, itemData] of Object.entries(data)) {
 		  const item = createOptionItem(itemData, index);
